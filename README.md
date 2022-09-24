@@ -19,10 +19,13 @@ $ git clone https://github.com/Sheraz-Ilyas/reservation-app
 # Go into the repository
 $ cd reservation-app
 
-# Install dependencies
+# Install dependencies in both frontend and server
 $ npm install
 
 #Start's development server
 $ npm run dev
+
+#Start's frontend
+$ npm start
 ---
 ```
